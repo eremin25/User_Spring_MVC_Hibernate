@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="User_Spring_MVC_Hibernate:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="ant-preprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="archive" name="User_Spring_MVC_Hibernate.war">
+      <element id="artifact" artifact-name="User_Spring_MVC_Hibernate:war exploded" />
+    </root>
+  </artifact>
+</component>
